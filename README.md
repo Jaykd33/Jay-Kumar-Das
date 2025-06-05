@@ -18,8 +18,7 @@ Let’s connect, build, and grow together—one repo at a time.
 You bring the curiosity, I’ll bring the energy 🚴‍♂️🔥
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/jaykumardas33/)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jaykumardas33)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jaykumardas33/)
 
 
 
