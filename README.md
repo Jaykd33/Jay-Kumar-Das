@@ -30,7 +30,7 @@ You bring the curiosity, I’ll bring the energy 🚴‍♂️🔥
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) 
 
 
 
