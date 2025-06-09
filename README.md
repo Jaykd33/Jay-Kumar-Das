@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub!
 
-I’m a B.Tech student, passionate about learning, building, and constantly evolving—both in code and in life. Whether it’s crunching numbers in Power BI, solving programming puzzles, prepping for an MUN, or building cool, real-world apps, I’m all in. 💡
+I’m a B.Tech student, passionate about learning, building, and constantly evolving—both in code and in life. Whether it’s crunching numbers in Power BI, solving programming puzzles, prepping for an MUN, or building cool, real-world applications, I’m all in. 💡
 
 Here’s what you’ll find around here:
 
